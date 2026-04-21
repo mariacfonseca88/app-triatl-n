@@ -22,3 +22,4 @@ streamlit run app.py
 - Stripe Billing
 - Carga CSV/XLSX de planes
 - Integración Strava/Garmin
+\n## Actualización visual\n- Hero login con imagen de ciclismo en alta resolución\n- Banners visuales en dashboard para running y natación\n- Mejor composición de tarjetas y KPIs\n- UI más moderna y comercial\n
